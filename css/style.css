@@ -33,15 +33,15 @@ html, body {
 }
 
 .cabecalho__titulo {
-	padding-top: 50px;
+	padding-top: 30px;
 	
 	font-variant: small-caps;
 	
-	font-size: 5em;
+	font-size: 3em;
 }
 
 .cabecalho__texto {
-	padding-bottom: 50px;
+	padding-bottom: 30px;
 }
 
 .cabecalho__link,
@@ -64,7 +64,7 @@ html, body {
 	
 	font-family: var(--fonte3);
 	
-	font-size: 2.75em;
+	font-size: 2em;
 	
 	height: 85vh;
 }
@@ -90,13 +90,13 @@ html, body {
 }
 
 #img01 {
-	background-image: url('../imagens/background001.jpg');
+	background-image: url('/Imagens/background001.jpg');
 	background-position: right center;
 	background-size: cover;
 }
 
 #img02 {
-	background-image: url('../imagens/background002.jpg');
+	background-image: url('/Imagens/background002.jpg');
 	background-size: cover;
 }
 
