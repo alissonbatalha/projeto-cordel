@@ -60,11 +60,11 @@ html, body {
 .sessao {
 	padding:10vh 0 10vh 50px;
 	
-	line-height: 1.5em;
+	line-height: 2em;
 	
 	font-family: var(--fonte3);
 	
-	font-size: 1.3em;
+	font-size: 2em;
 	
 	height: 85vh;
 }
@@ -108,6 +108,11 @@ html, body {
 	background-color: rgba(0, 0, 0, 0.253);
 	
 	text-shadow: 1px 1px 0 black;
+}
+
+.grande {
+	font-size: 1.3em;
+	line-height: 1.5em;
 }
 
 .rodape {
